@@ -64,7 +64,6 @@ Built with:
 
 7. **Visualization Page**
    
-    <img width="1231" height="943" alt="Screenshot 2025-08-13 020604" src="https://github.com/user-attachments/assets/210d1bf4-1476-49ac-8636-ac6d0a2409b5" />
     <img width="520" height="410" alt="image" src="https://github.com/user-attachments/assets/203bd34d-0d5e-44f7-a185-54d446ec4e2c" />
 
 
