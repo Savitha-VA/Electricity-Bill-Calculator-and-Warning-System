@@ -1,7 +1,6 @@
 
 #  Electricity Bill Calculator and Warning System
 
-##  Overview
 
 The **Electricity Bill Calculator with Warning System** is a desktop-based Python application that helps users **calculate, monitor, and manage** their electricity consumption effectively.
 It features **user authentication**, **appliance management**, **real-time bill calculation**, **bill history storage**, and **visual data representation** using pie charts.
@@ -44,12 +43,15 @@ Built with:
 ## Output
 
 1. **Registration Page**
+   
     <img width="1198" height="909" alt="Screenshot 2025-08-13 020005" src="https://github.com/user-attachments/assets/2beec114-43e4-40a8-9ab6-9acc92194a64" />
 
 3. **Login Page**
+   
     <img width="1201" height="903" alt="Screenshot 2025-08-13 020046" src="https://github.com/user-attachments/assets/d3d76c67-1122-4265-888a-52529d334815" />
 
 5. **Appliance Management**
+   
     <img width="1198" height="913" alt="Screenshot 2025-08-13 020136" src="https://github.com/user-attachments/assets/27939131-3fbe-4a51-b0cb-be666f26d010" />
 
     <img width="1231" height="938" alt="Screenshot 2025-08-13 020153" src="https://github.com/user-attachments/assets/2f96ed7d-6898-4d49-a363-004da46db30d" />
@@ -61,7 +63,10 @@ Built with:
 
 
 7. **Visualization Page**
+   
     <img width="1231" height="943" alt="Screenshot 2025-08-13 020604" src="https://github.com/user-attachments/assets/210d1bf4-1476-49ac-8636-ac6d0a2409b5" />
+    <img width="520" height="410" alt="image" src="https://github.com/user-attachments/assets/203bd34d-0d5e-44f7-a185-54d446ec4e2c" />
+
 
 
 ---
@@ -112,6 +117,3 @@ Built with:
 ---
 
 
-
-
-If you want, I can also prepare a **GitHub-friendly version with badges and images** so it looks professional on your repository. This would make it visually appealing and recruiter-friendly. Would you like me to do that?
